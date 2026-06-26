@@ -1,7 +1,9 @@
 # autoclicker
 
 An autoclicker built with Python, pynput, and tkinter.
+
 <br>
+
 Features:
 
 Can use left, right, middle mouse button and keyboard key
@@ -15,7 +17,9 @@ F6 to start clicking, F7 to stop
 Requirements
 
 Python 3
+
 <br>
+
 pynput
 
 pip install pynput
