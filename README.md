@@ -12,7 +12,7 @@ Can configure click interval (minutes, seconds, milliseconds)
 
 F6 to start clicking, F7 to stop
 
-<br><br><br>
+<br><br>
 
 Requirements
 
@@ -24,7 +24,7 @@ pynput
 
 pip install pynput
 
-<br><br><br>
+<br><br>
 
 Usage
 
